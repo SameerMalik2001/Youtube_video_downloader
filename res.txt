@@ -1,0 +1,28 @@
+{
+  age_restricted: false,
+  author: "8K VIDEOS ULTRA HD",
+  category: "Film & Animation",
+  formats: [
+    {
+      resolution: 360,
+      fps: 24,
+      url: "https://rr5---sn-ci5gup-qxaee.googlevideo.com/vide…iEA3g4-7v66VqwEJMyaMzooarV9cZm6amzdedB0hFlRFc0%3D",
+      hasVideo: true,
+      hasAudio: true,
+    },
+    {
+      resolution: 720,
+      fps: 24,
+      url: "https://rr5---sn-ci5gup-qxaee.googlevideo.com/vide…iEA3g4-7v66VqwEJMyaMzooarV9cZm6amzdedB0hFlRFc0%3D",
+      hasVideo: true,
+      hasAudio: true,
+    },
+  ],
+  isFamilySafe: true,
+  isLive: false,
+  isPrivate: false,
+  lenghtSecond: "2824",
+  publishedDate: "2023-11-22T05:00:25-08:00",
+  title: "ADORABLE ANIMALS 8K ULTRA HD",
+  views: "359571",
+};
